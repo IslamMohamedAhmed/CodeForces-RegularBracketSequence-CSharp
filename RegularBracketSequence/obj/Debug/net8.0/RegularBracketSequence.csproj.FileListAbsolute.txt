@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\bin\Debug\net8.0\RegularBracketSequence.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\bin\Debug\net8.0\RegularBracketSequence.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\bin\Debug\net8.0\RegularBracketSequence.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\bin\Debug\net8.0\RegularBracketSequence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\bin\Debug\net8.0\RegularBracketSequence.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\refint\RegularBracketSequence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\RegularBracketSequence.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\RegularBracketSequence\RegularBracketSequence\obj\Debug\net8.0\ref\RegularBracketSequence.dll
